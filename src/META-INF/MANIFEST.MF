@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: jmrtd-0.7.11.jar scuba-smartcards-0.0.18.jar bcprov-jdk15o
+ n-1.61.jar cert-cvc-1.4.6.jar scuba-smartcards-0.0.18.jar jai-imageio
+ -jpeg2000-1.3.0.jar jai-imageio-core-1.3.0.jar scuba-sc-j2se-0.0.19.j
+ ar scuba-smartcards-0.0.18.jar
+Main-Class: kansasdev.Main
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.github.jai-imageio:jai-imageio-jpeg2000:1.3.0" type="repository">
+    <properties maven-id="com.github.jai-imageio:jai-imageio-jpeg2000:1.3.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-jpeg2000/1.3.0/jai-imageio-jpeg2000-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.0/jai-imageio-core-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

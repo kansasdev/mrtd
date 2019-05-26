@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="net.sf.scuba:scuba-sc-j2se:0.0.19" type="repository">
+    <properties maven-id="net.sf.scuba:scuba-sc-j2se:0.0.19" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/scuba/scuba-sc-j2se/0.0.19/scuba-sc-j2se-0.0.19.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/scuba/scuba-smartcards/0.0.18/scuba-smartcards-0.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/scuba-smartcards-0.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

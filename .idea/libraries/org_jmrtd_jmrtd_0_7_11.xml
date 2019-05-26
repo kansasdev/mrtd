@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="org.jmrtd:jmrtd:0.7.11" type="repository">
+    <properties maven-id="org.jmrtd:jmrtd:0.7.11" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jmrtd/jmrtd/0.7.11/jmrtd-0.7.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/scuba/scuba-smartcards/0.0.18/scuba-smartcards-0.0.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.61/bcprov-jdk15on-1.61.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/ejbca/cvc/cert-cvc/1.4.6/cert-cvc-1.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jmrtd-0.7.11-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/scuba-smartcards-0.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

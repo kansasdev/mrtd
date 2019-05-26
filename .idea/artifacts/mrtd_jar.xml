@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="mrtd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mrtd_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mrtd.jar">
+        <element id="module-output" name="mrtd" />
+      </element>
+      <element id="library" level="project" name="org.jmrtd:jmrtd:0.7.11" />
+      <element id="library" level="project" name="net.sf.scuba:scuba-smartcards:0.0.18" />
+      <element id="library" level="project" name="com.github.jai-imageio:jai-imageio-jpeg2000:1.3.0" />
+      <element id="library" level="project" name="net.sf.scuba:scuba-sc-j2se:0.0.19" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/kansasdev/config.properties" />
+      <element id="file-copy" path="$PROJECT_DIR$/masterlist-content-current.data" />
+    </root>
+  </artifact>
+</component>
